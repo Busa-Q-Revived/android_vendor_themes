@@ -148,6 +148,7 @@ PRODUCT_PACKAGES += \
     WavySignalOverlay \
     RoundSignalOverlay \
     InsideSignalOverlay \
+    IosSignalOverlay \
     BarsSignalOverlay
 
 # Wi-Fi Icons
@@ -159,4 +160,5 @@ PRODUCT_PACKAGES += \
     WavyWiFiOverlay \
     RoundWiFiOverlay \
     InsideWiFiOverlay \
+    IosWiFiOverlay \
     BarsWiFiOverlay
