@@ -19,7 +19,7 @@
     package="com.android.system.qs.cyberpunk"
     android:versionCode="1"
     android:versionName="1.0">
-    <overlay android:targetPackage="com.android.systemui" android:category="android.theme.customization.qs_panel" android:priority="1"/>
+    <overlay android:targetPackage="com.android.systemui" android:category="android.customization.panel_bg" android:priority="1"/>
 
     <application android:label="CyberPunk QS-Panel" android:hasCode="false" android:allowBackup="false"/>
 </manifest>
