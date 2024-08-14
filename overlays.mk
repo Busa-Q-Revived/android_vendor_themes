@@ -167,7 +167,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     PanelBgBatik \
     PanelBgKece \
-    PanelBgOutline
+    PanelBgOutline \
+    QSCyberPunk
 
 # Qs shape
 PRODUCT_PACKAGES += \
